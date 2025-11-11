@@ -1,0 +1,5 @@
+{
+  "name": "Elementary English Vocabulary Master",
+  "description": "An interactive web application to help elementary school students learn and test their English vocabulary based on their lesson plans. Users can select a lesson, memorize words using flashcards, and take a multiple-choice quiz to test their knowledge.",
+  "requestFramePermissions": []
+}
